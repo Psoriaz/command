@@ -1,0 +1,4 @@
+#ifndef SALEINPUTSCREEN_H
+#define SALEINPUTSCREEN_H
+
+#endif
